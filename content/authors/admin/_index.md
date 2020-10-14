@@ -72,7 +72,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Ali Miramirkhani is a graduate of computer engineering from University of Isfahan. He is passionate about image processing and intrested in associated research topics, such as computer vision and machine learning. He currently collaborates on refining a coronary angiography dataset under supervision of [Dr. Ahmad R. Naghsh-Nilchi](https://scholar.google.com/citations?user=mnRKQS4AAAAJ&hl=en&oi=ao).
