@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Skills"
+title = "Skills and Hobbies"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -19,24 +19,37 @@ subtitle = ""
   icon_pack = "fab"
   name = "Python"
   description = ""
+
+[[feature]]
+  icon = "photo-video"
+  icon_pack = "fas"
+  name = "Image Processing"
+  description = ""
   
 [[feature]]
   icon = "linux"
   icon_pack = "fab"
   name = "GNU-Linux"
   description = ""  
-  
-[[feature]]
-  icon = "photo-video"
-  icon_pack = "fas"
-  name = "Image Processing"
-  description = ""
 
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Technical Trading"
   description = ""
+
+[[feature]]
+  icon = "boxing-glove"
+  icon_pack = "fas"
+  name = "KickBoxing"
+  description = ""
+
+ [[feature]]
+  icon = "bicycle"
+  icon_pack = "fas"
+  name = "Cycling"
+  description = "" 
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
