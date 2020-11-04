@@ -15,7 +15,7 @@ role: Research Assistant
 # Organizations/Affiliations
 organizations:
 - name: Isfahan University
-  url: "https://ui.ac.ir/EN"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include image processing, computer vision and machine learning.
@@ -44,26 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ali.miramirkhani@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-
-#- icon: google-scholar
-  #icon_pack: ai
-  #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/ali-miramirkhani
-- icon: github
-  icon_pack: fab
-  link: https://github.com/seiiedali
+  link: 'mailto:ali.miramirkhani@gmail.org'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/seiiedali
-- icon: facebook
+#- icon: google-scholar
+  #icon_pack: ai
+  #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: github
   icon_pack: fab
-  link: https://www.facebook.com/miramirkhani
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/seiiedali/
+  link: https://github.com/seiiedali
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
