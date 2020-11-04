@@ -19,9 +19,9 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Computer Engineering Faculty - University of Isfahan"
+  organization = "Computer Engineering Faculty, University of Isfahan"
   organization_url = "https://comp.ui.ac.ir/"
-  title = "Ranked 3rd among students of Computer Engineering - software engineering group"
+  title = "Ranked 3rd among students of Computer Engineering, software engineering group"
   url = ""
   certificate_url = ""
   date_start = ""
