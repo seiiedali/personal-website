@@ -15,7 +15,7 @@ role: Research Assistant
 # Organizations/Affiliations
 organizations:
 - name: Isfahan University
-  url: ""
+  url: "https://ui.ac.ir/EN"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include image processing, computer vision and machine learning.
@@ -44,16 +44,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ali.miramirkhani@gmail.org'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: 'mailto:ali.miramirkhani@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/seiiedali
-#- icon: google-scholar
-  #icon_pack: ai
-  #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.linkedin.com/in/ali-miramirkhani
 - icon: github
   icon_pack: fab
   link: https://github.com/seiiedali
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/seiiedali
+- icon: facebook
+  icon_pack: fab
+  link: https://www.facebook.com/miramirkhani
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/seiiedali/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,4 +78,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Ali Miramirkhani is a graduate of computer engineering from University of Isfahan. He is passionate about image processing and intrested in associated research topics, such as computer vision and machine learning. He currently collaborates on refining a coronary angiography dataset under supervision of [Dr. Ahmad R. Naghsh-Nilchi](https://scholar.google.com/citations?user=mnRKQS4AAAAJ&hl=en&oi=ao).
+Ali Miramirkhani /æl'i miræmi:'rxani/ (written as علی میرامیرخانی in persian) is a graduate of computer engineering from University of Isfahan. He is passionate about image processing and intrested in associated research topics, such as computer vision and machine learning. He currently collaborates on refining a coronary angiography dataset under supervision of [Dr. Ahmad R. Naghsh-Nilchi](https://scholar.google.com/citations?user=mnRKQS4AAAAJ&hl=en&oi=ao).
