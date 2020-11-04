@@ -17,7 +17,7 @@ subtitle = ""
 [[feature]]
   icon = "python"
   icon_pack = "fab"
-  name = "R"
+  name = "python"
   description = "90%"
   
 [[feature]]
@@ -29,7 +29,7 @@ subtitle = ""
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
-  name = "Photography"
+  name = "Image processing"
   description = "10%"
 
 # Uncomment to use emoji icons.
