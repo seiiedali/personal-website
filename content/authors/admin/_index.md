@@ -51,6 +51,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/seiiedali
+- icon: skype
+  icon_pack: fab
+  link: https://join.skype.com/invite/esuVwSeao5XY
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/seiiedali
