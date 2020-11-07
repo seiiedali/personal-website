@@ -1,15 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Automated End to End Test for a Commercial Angular Webapp"
-summary: ""
-authors: []
-tags: []
-categories: []
+title: "Automated E2E Test for a Commercial Angular Webapp"
+summary: "Developing automated End-to-End (E2E) test for a commercial angular web app,
+using protractorJS framework along with Jasmine testing framework in JavaScript language"
+authors: [Ali Miramirkhani]
+tags: ["Web App","Front End","Testing","JavaScript"]
+categories: ["Automated Test"]
 date: 2020-11-07T15:28:59+03:30
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/seiiedali/E2E-test-Angular-app"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

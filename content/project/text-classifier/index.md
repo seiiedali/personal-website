@@ -4,8 +4,8 @@
 title: "Text Classifier"
 summary: "Implement supervised text classifier to detect mobile spam text messages, deploy Decision Tree and KNN models, Naive Bayes using N-Grams feature generator, TF-IDF as feature weighting method and F1-Score for accuracy evaluation with python and scikit-learn"
 authors: [Ali Miramirkhani]
-tags: [AI]
-categories: [AI]
+tags: ["Artificial Intelligence","Machine Learning","NLP"]
+categories: ["Artificial Intelligence"]
 date: 2020-11-06T12:12:32+03:30
 
 # Optional external URL for project (replaces project detail page).

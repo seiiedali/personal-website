@@ -4,7 +4,7 @@
 title: "Vector Space Information Retrieval Model"
 summary: "Implement a query search system based on Vector Space Model, using TF-IDF weighting and Cosine Similarity concepts for ranking the related documents"
 authors: [Ali Miramirkhani]
-tags: ["Semantic_Web","Information_Retrieval","Query","NLP"]
+tags: ["Semantic Web","Information Retrieval","Query","NLP"]
 categories: ["Semantic Web"]
 date: 2019-05-07T15:22:11+03:30
 
