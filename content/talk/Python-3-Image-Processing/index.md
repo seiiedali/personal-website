@@ -26,8 +26,8 @@ PRIMARY: Become an expert with scikit-image
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-11-07T18:26:44+03:30
-date_end: 2020-11-07T18:26:44+03:30
+date: 2019-12-07
+#date_end: 2020-11-07
 all_day: false
 
 # Schedule page publish date (NOT talk date).

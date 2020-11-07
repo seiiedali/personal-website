@@ -21,7 +21,7 @@ This course will cover the fundamentals of image and video processing.  We will 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2020-07-05
-date_end:
+#date_end:
 all_day: false
 
 # Schedule page publish date (NOT talk date).
