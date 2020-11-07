@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary: "learn image processing through an integration of python and image processing libraries liek `scikit-image`"
+summary: "learn image processing through an integration of python and image processing libraries like `scikit-image`"
 abstract: "
 This course objectives are:
 PRIMARY: Become an expert with scikit-image
