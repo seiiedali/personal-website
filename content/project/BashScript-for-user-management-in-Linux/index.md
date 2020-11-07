@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Machine Learing SMS text classifier"
-summary: "Implement supervised text classifier to detect mobile spam text messages, deploy Decision Tree and KNN models, Naive Bayes using N-Grams feature generator, TF-IDF as feature weighting method and F1-Score for accuracy evaluation with python and scikit-learn"
+title: "BashScript for User Management in Linux"
+summary: "Develop Linux Shell program to fully create/delete/check system users using Bash Script"
 authors: [Ali Miramirkhani]
-tags: ["Artificial Intelligence","Machine Learning","NLP"]
-categories: ["Artificial Intelligence"]
-date: 2020-11-06T12:12:32+03:30
+tags: ["Linux","Bash Script","Shell"]
+categories: ["Linux Shell"]
+date: 2020-11-07T16:00:30+03:30
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/seiiedali/Text-classifier"
+external_link: "https://github.com/seiiedali/BashScript-for-user-management"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
