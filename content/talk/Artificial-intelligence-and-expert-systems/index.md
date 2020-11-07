@@ -11,13 +11,13 @@ address:
   region:
   postcode:
   country: "Iran"
-summary: "to learn basic artifical intelligence conepts apply its algorithm"
-abstract:
+summary: "learn basic artifical intelligence conepts apply its algorithm"
+abstract: "The course covers 'Artificial Intelligence A Modern Approach' by 'Stuart J. Russell and Peter Norvig' and walk through all the AI concepts from its history to modern deep learning approaches"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2018-11-07T17:56:25+03:30
-date_end: 2019-03-07T17:56:25+03:30
+date: 2019-01-07
+date_end: 2019-05-07
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -64,5 +64,5 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [Artificial-Intelligence-Sudoku-solver]
 ---
