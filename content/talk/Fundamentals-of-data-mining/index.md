@@ -12,9 +12,9 @@ address:
   postcode:
   country: Iran
 summary: "learn concepts and apply data preprocessing, processing and knowloedge extraction"
-abstract: """
+abstract: "
 Data mining is a process of discovering patterns in large data sets involving methods at the intersection of machine learning, statistics, and database systems. Data mining is an interdisciplinary subfield of computer science and statistics with an overall goal to extract information (with intelligent methods) from a data set and transform the information into a comprehensible structure for further use. Data mining is the analysis step of the 'knowledge discovery in databases' process, or KDD. Aside from the raw analysis step, it also involves database and data management aspects, data pre-processing, model and inference considerations, interestingness metrics, complexity considerations, post-processing of discovered structures, visualization, and online updating.
-"""
+"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

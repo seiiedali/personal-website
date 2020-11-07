@@ -3,7 +3,7 @@
 
 title: "Fundamental of Information Retrieval and Web Search(Semantic Web)"
 event:
-event_url: "https://comp.ui.ac.ir/en"
+event_url: https://comp.ui.ac.ir/en
 location: "University of Isfahan"
 address:
   street:
@@ -12,7 +12,7 @@ address:
   postcode:
   country: "Iran"
 summary: "learn search engine functionality, indexing method, text processing and query documetns"
-abstract: """ 
+abstract: "
 This course covers
 * Information Retrieval
 * Search Engine Architecture and Process
@@ -21,7 +21,7 @@ This course covers
 * Sponsored Search: Advertisement
 * Impact to Business and Search Engine Optimization
 * Related fields
-"""
+"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

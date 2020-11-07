@@ -3,7 +3,7 @@
 
 title: "Python 3 Image Processing"
 event:
-event_url:
+event_url: https://www.udemy.com/
 location: "Udemy online Course"
 address:
   street:
@@ -12,7 +12,7 @@ address:
   postcode:
   country:
 summary: "learn image processing through an integration of python and image processing libraries liek `scikit-image`"
-abstract: """
+abstract: "
 This course objectives are:
 PRIMARY: Become an expert with scikit-image
 * Introduction to Scientific Python Ecosystem
@@ -22,7 +22,7 @@ PRIMARY: Become an expert with scikit-image
 * Confidence in Interviews
 * Confidence in adding scikit-image as a skill in Resume
 * Preparation for Academic Projects and Exams
-"""
+"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

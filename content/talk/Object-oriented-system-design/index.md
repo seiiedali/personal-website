@@ -12,9 +12,9 @@ address:
   postcode:
   country: "Iran"
 summary: "learn analysis and design Object-Oriented systems along with programming and model visualization"
-abstract: """
+abstract: "
 bject-oriented analysis and design (OOAD) is a technical approach for analyzing and designing an application, system, or business by applying object-oriented programming, as well as using visual modeling throughout the software development process to guide stakeholder communication and product quality.
-"""
+"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
