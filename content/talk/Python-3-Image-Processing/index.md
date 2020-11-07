@@ -1,27 +1,37 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Artificial Intelligence and Expert Systems"
+title: "Python 3 Image Processing"
 event:
-event_url: https://comp.ui.ac.ir/en
-location: "Isfahan University"
+event_url:
+location: "Udemy online Course"
 address:
   street:
   city:
   region:
   postcode:
-  country: "Iran"
-summary: "learn basic artifical intelligence conepts apply its algorithm"
-abstract: "The course covers 'Artificial Intelligence A Modern Approach' by 'Stuart J. Russell and Peter Norvig' and walk through all the AI concepts from its history to modern deep learning approaches"
+  country:
+summary: "learn image processing through an integration of python and image processing libraries liek `scikit-image`"
+abstract: """
+This course objectives are:
+PRIMARY: Become an expert with scikit-image
+* Introduction to Scientific Python Ecosystem
+* Become comfortable working with Jupyter Notebook
+* Just enough NumPy and Matplotlib
+* Confidently handle Image Processing related tasks at job
+* Confidence in Interviews
+* Confidence in adding scikit-image as a skill in Resume
+* Preparation for Academic Projects and Exams
+"""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2019-01-07
-date_end: 2019-05-07
+date: 2020-11-07T18:26:44+03:30
+date_end: 2020-11-07T18:26:44+03:30
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-11-07T17:56:25+03:30
+publishDate: 2020-11-07T18:26:44+03:30
 
 authors: []
 tags: []
@@ -64,5 +74,5 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [Artificial-Intelligence-Sudoku-solver]
+projects: []
 ---

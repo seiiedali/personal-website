@@ -1,18 +1,27 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Artificial Intelligence and Expert Systems"
+title: "Fundamental of Information Retrieval and Web Search(Semantic Web)"
 event:
-event_url: https://comp.ui.ac.ir/en
-location: "Isfahan University"
+event_url: "https://comp.ui.ac.ir/en"
+location: "University of Isfahan"
 address:
   street:
   city:
   region:
   postcode:
   country: "Iran"
-summary: "learn basic artifical intelligence conepts apply its algorithm"
-abstract: "The course covers 'Artificial Intelligence A Modern Approach' by 'Stuart J. Russell and Peter Norvig' and walk through all the AI concepts from its history to modern deep learning approaches"
+summary: "learn search engine functionality, indexing method, text processing and query documetns"
+abstract: """ 
+This course covers
+* Information Retrieval
+* Search Engine Architecture and Process
+* Web Content and Size
+* Users Behavior in Search
+* Sponsored Search: Advertisement
+* Impact to Business and Search Engine Optimization
+* Related fields
+"""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -21,7 +30,7 @@ date_end: 2019-05-07
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-11-07T17:56:25+03:30
+publishDate: 2020-11-07T18:22:32+03:30
 
 authors: []
 tags: []
@@ -64,5 +73,5 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [Artificial-Intelligence-Sudoku-solver]
+projects: [text-classifier]
 ---

@@ -1,27 +1,29 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Artificial Intelligence and Expert Systems"
+title: "Fundamentals of Data Mining"
 event:
 event_url: https://comp.ui.ac.ir/en
-location: "Isfahan University"
+location: University of Isfahan
 address:
   street:
   city:
   region:
   postcode:
-  country: "Iran"
-summary: "learn basic artifical intelligence conepts apply its algorithm"
-abstract: "The course covers 'Artificial Intelligence A Modern Approach' by 'Stuart J. Russell and Peter Norvig' and walk through all the AI concepts from its history to modern deep learning approaches"
+  country: Iran
+summary: "learn concepts and apply data preprocessing, processing and knowloedge extraction"
+abstract: """
+Data mining is a process of discovering patterns in large data sets involving methods at the intersection of machine learning, statistics, and database systems. Data mining is an interdisciplinary subfield of computer science and statistics with an overall goal to extract information (with intelligent methods) from a data set and transform the information into a comprehensible structure for further use. Data mining is the analysis step of the 'knowledge discovery in databases' process, or KDD. Aside from the raw analysis step, it also involves database and data management aspects, data pre-processing, model and inference considerations, interestingness metrics, complexity considerations, post-processing of discovered structures, visualization, and online updating.
+"""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2019-01-07
-date_end: 2019-05-07
+date: 2017-10-07
+date_end: 2017-12-05
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-11-07T17:56:25+03:30
+publishDate: 2020-11-07T18:21:06+03:30
 
 authors: []
 tags: []
@@ -64,5 +66,5 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [Artificial-Intelligence-Sudoku-solver]
+projects: []
 ---

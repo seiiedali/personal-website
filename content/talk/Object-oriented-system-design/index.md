@@ -1,27 +1,29 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Artificial Intelligence and Expert Systems"
+title: "Object Oriented System Design"
 event:
 event_url: https://comp.ui.ac.ir/en
-location: "Isfahan University"
+location: "University of Isfahan"
 address:
   street:
   city:
   region:
   postcode:
   country: "Iran"
-summary: "learn basic artifical intelligence conepts apply its algorithm"
-abstract: "The course covers 'Artificial Intelligence A Modern Approach' by 'Stuart J. Russell and Peter Norvig' and walk through all the AI concepts from its history to modern deep learning approaches"
+summary: "learn analysis and design Object-Oriented systems along with programming and model visualization"
+abstract: """
+bject-oriented analysis and design (OOAD) is a technical approach for analyzing and designing an application, system, or business by applying object-oriented programming, as well as using visual modeling throughout the software development process to guide stakeholder communication and product quality.
+"""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2019-01-07
-date_end: 2019-05-07
+date: 2018-09-05
+date_end: 2018-12-07
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-11-07T17:56:25+03:30
+publishDate: 2020-11-07T18:25:14+03:30
 
 authors: []
 tags: []
@@ -64,5 +66,5 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [Artificial-Intelligence-Sudoku-solver]
+projects: []
 ---
