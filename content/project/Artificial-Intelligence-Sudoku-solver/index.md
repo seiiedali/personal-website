@@ -39,30 +39,20 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-# User Management Bash script for Linux
-General bash script which would
-- Create a user
-- Checkout a user
-- Delete the user
+# Sudoku Solver with AI algorithms
 
-## Creating the user
-Provided script will check for user name correctness (if it is empty or duplicate) then it create a the user with its own:
-- group
-- home directory
-- UID and GID
-then it will configure related files and save a log for this activity
+ Solving 3\*3 and 9\*9 Sudoku table using:
+- Simple search
+- Simulated annealing
+- Genetic algorithm
 
-## Checking out an user
-Like creating the user, the script will check if the entered user is existed and available and then it return the related data about the user. This action also save a log in `/var/log/usermanagement.log`.
+All methods and algorithm are created from scratch without the help of any pre-built module. This program is coded in C# and is developed with MS visual studio.
 
-## Deleting the user
-This part delete the user after authenticating its existence. Deleting an user includes:
-- deleting home directory
-- deleting email directory
-- deleting records from related configuration files
-    - `/etc/passwd`
-    - `/etc/shadow`
-    - `/etc/group`
-and finally it will save a log of this action.
-
->A very detailed documentation of this project is provided  in `./Documentation.pdf` in Persian to check out more about this script.
+Procedure start from the `./Properties/Program.cs` and it will test following algorithms to solve sudoku table:
+- `FourSimple.cs` which would try to solve the 4\*4 sudoku table by testing all the possible arrangement of the numbers
+- `FourSA.cs` which would try to solve 4\*4 table using simulated annealing algorithm
+- `FourGa` which would try to solve 4\*4 table using genetic algorithm
+- `NineSimple.cs` which would try to solve the 9\*9 sudoku table by testing all the possible arrangement of the numbers
+- `NineSA.cs` which would try to solve 9\*9 table using simulated annealing algorithm
+- `NineGA` which would try to solve 9\*9 table using genetic algorithm
+> Note that this program does not solve the table with pre entered numbers in the table but try to find the first possible arrangement of numbers into the empty table that satisfy the sudoku rules.
