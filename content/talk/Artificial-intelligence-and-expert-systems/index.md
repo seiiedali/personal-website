@@ -4,7 +4,7 @@
 title: "Artificial Intelligence and Expert Systems"
 event:
 event_url: https://comp.ui.ac.ir/en
-location: "Isfahan University"
+location: "University of Isahan"
 address:
   street:
   city:

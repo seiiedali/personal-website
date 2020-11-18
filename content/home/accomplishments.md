@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "University of Isfahan"
   organization_url = "https://ui.ac.ir/EN"
-  title = "Ranked 3rd in Computer Engineering"
+  title = "Honored student in Computer Engineering Department"
   url = "http://comp.ui.ac.ir/en"
   certificate_url = ""
   date_start = "2015-09-18"
@@ -41,11 +41,12 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Saremieh High School"
   organization_url = "http://www.isf-edn1.ir/"
-  title = "Ranked 1st for high school diploma"
+  title = "Honored Student for high school diploma"
   url = ""
   certificate_url = ""
   date_start = "2010-09-01"
   date_end = "2014-07-08"
-  description = "Ranked first among 60 students for high school diploma in mathematics and physics major (GPA: 4.00)"
+  description = "Ranked 1st in high school, diploma in mathematics and physics (GPA: 4.00)
+"
 
 +++
