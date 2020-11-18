@@ -46,7 +46,6 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2010-09-01"
   date_end = "2014-07-08"
-  description = "Ranked 1st in high school, diploma in mathematics and physics (GPA: 4.00)
-"
+  description = "Ranked 1st in high school, diploma in mathematics and physics (GPA: 4.00)"
 
 +++
