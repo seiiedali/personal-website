@@ -22,8 +22,9 @@ bio: My research interests include image processing, computer vision and machine
 
 interests:
 - Digital Image Processing
+- Data Mining
 - Computer Vision
-- Machine Learning
+- Applied Machine Learning
 
 education:
   courses:
