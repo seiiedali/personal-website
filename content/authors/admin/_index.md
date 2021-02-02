@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include image processing, computer vision and machine learning.
 
 interests:
-- Digital Image Processing
 - Data Mining
 - Computer Vision
+- Digital Image Processing
 - Applied Machine Learning
 
 education:
@@ -82,4 +82,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Ali Miramirkhani /æl'i miræmi:'rxani/ (written as علی میرامیرخانی in Persian) is graduated in Computer Engineering from University of Isfahan in subfield of Software Engineering. He is passionate about intersection of Applied Machine Learning, Data Science and Image Processing, and interested in associated research topics, such as Computer Vision and Data Mining and Visual Computation. He currently a research assistance and collaborates on refining a coronary angiography dataset under supervision of [Dr. Ahmad R. Naghsh-Nilchi](https://scholar.google.com/citations?user=mnRKQS4AAAAJ&hl=en&oi=ao) in Artificial Intelligence Lab of [University of Isfahan](https://ui.ac.ir/EN).
+Ali Miramirkhani /æl'i miræmi:'rxani/ (written as علی میرامیرخانی in Persian) is graduated in Computer Engineering from University of Isfahan in subfield of Software Engineering. He is passionate about intersection of Applied Machine Learning, Data Science and Image Processing, and interested in associated research topics, such as Computer Vision, Data Mining and Visual Computation. He is currently a research assistance and collaborates on refining a coronary angiography dataset under supervision of [Dr. Ahmad R. Naghsh-Nilchi](https://scholar.google.com/citations?user=mnRKQS4AAAAJ&hl=en&oi=ao) in Artificial Intelligence Lab of [University of Isfahan](https://ui.ac.ir/EN).
