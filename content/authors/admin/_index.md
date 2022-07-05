@@ -18,23 +18,23 @@ organizations:
   url: "https://ui.ac.ir/EN"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include image processing, computer vision and machine learning.
+bio: My research interests include Distributed Systems, Blockchain and Artificial Intelligence.
 
 interests:
-- Data Mining
-- Computer Vision
-- Digital Image Processing
+- Distributed System
+- Blockchain Technology
 - Applied Machine Learning
+- Artificial Intelligence
 
 education:
   courses:
   #- course: PhD in Artificial Intelligence
    # institution: Stanford University
     #year: 2012
-  #- course: MEng in Artificial Intelligence
-   # institution: Massachusetts Institute of Technology
-    #year: 2009
-  - course: BSc in Computer Engineering
+  - course: MEng in Computer and Information Systems Security
+    institution: Isfahan University
+    year: present
+  - course: BEng in Computer Engineering
     institution: Isfahan University
     year: 2020
 
@@ -82,4 +82,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Ali Miramirkhani /æl'i miræmi:'rxani/ (written as علی میرامیرخانی in Persian) is graduated in Computer Engineering from University of Isfahan in subfield of Software Engineering. He is passionate about intersection of Applied Machine Learning, Data Science and Image Processing, and interested in associated research topics, such as Computer Vision, Data Mining and Visual Computation. He is currently a research assistance and collaborates on refining a coronary angiography dataset under supervision of [Dr. Ahmad R. Naghsh-Nilchi](https://scholar.google.com/citations?user=mnRKQS4AAAAJ&hl=en&oi=ao) in Artificial Intelligence Lab of [University of Isfahan](https://ui.ac.ir/EN).
+Ali Miramirkhani /æl'i miræmi:'rxani/ (written as علی میرامیرخانی in Persian) is graduated in Computer Engineering from Isfahan University in subfield of Software Engineering. He is most focused and passionate about architecture and development of Distributed System with specific focus on Blockchain based technologies, and also interested in associated research topics, such as Cryptography Protocols, Applied Machine Learning, and Data Science. He is currently a research assistance and a graduate student who study Blockchain application under the supervision of [Dr. M. Nahdavi](https://scholar.google.com/citations?user=4ywD6eQAAAAJ&hl=en&oi=ao) in Information Security Lab of [Isfahan University](https://ui.ac.ir/EN).
